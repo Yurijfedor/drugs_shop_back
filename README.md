@@ -20,7 +20,6 @@ The Pharmacy Management System is a web application that allows users to manage 
 ## Features
 
 - RESTful API endpoints for managing pharmacies, drugs, and orders
-- User authentication and authorization
 - MongoDB database integration for storing application data
 - Error handling and validation for API requests
 - JWT-based authentication system for securing routes
